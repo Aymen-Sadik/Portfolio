@@ -44,8 +44,8 @@ export default function Contact() {
     {
       icon: '💼',
       label: 'LinkedIn',
-      value: 'https://www.linkedin.com/feed/',
-      href: 'https://www.linkedin.com/feed/'
+      value: 'https://www.linkedin.com/in/aymen-sadik/',
+      href: 'https://www.linkedin.com/in/aymen-sadik/'
     },
     {
       icon: '🐙',
