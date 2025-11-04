@@ -44,6 +44,7 @@ npm start
 ```
 
 Open [http://localhost:3000](http://localhost:3000) to see your application running.
+Open https://portfolio-sigma-one-ge9dl67ycm.vercel.app/ to overview
 
 
 ## 📁 Project Structure
